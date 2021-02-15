@@ -1,0 +1,17 @@
+{
+  "name": "oauth-jwt-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.2"
+  }
+}
